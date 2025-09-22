@@ -1,0 +1,9 @@
+# Editor settings
+.vscode/
+
+# Build artifacts
+**/temperature-stats
+**/temp_stats
+*.o
+*.out
+*.exe
