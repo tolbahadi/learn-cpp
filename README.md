@@ -31,8 +31,12 @@
 Keep iterating on examples, katas, and mini-projects to internalize patterns in both ecosystems.
 
 ## Practice Archive
-- 2025-09-20 — *A Tour of C++* ch. 1–4 refresh (quiz, short answers, temperature stats exercise): `practice/cpp-tour-1-4/`
+- 2025-09-20 — *A Tour of C++* ch. 1–4 refresh (quiz, short answers, temperature stats exercise): `practice/2025-09-20-cpp-tour-1-4/`
 
 ## Next Up
 - Deepen familiarity with `std::array`, ranges, and additional C++20 features as you advance past chapter 4
 - Capture future practice sets under `practice/` with dated subfolders for quick reference
+
+## Books In Progress
+- *A Tour of C++* (2nd ed., Stroustrup)
+- *Effective Modern C++* (Scott Meyers)
